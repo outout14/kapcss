@@ -1,0 +1,171 @@
+/* KAPCSS, a free Css template for everyone by outout14 ! */
+
+/* Google fonts */
+@import 'https://fonts.googleapis.com/css?family=Muli';
+@import 'https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300';
+@import 'https://fonts.googleapis.com/css?family=Pacifico'; /* For .cursive */
+
+body 
+{
+    font-family: 'Muli', sans-serif;
+}
+/* Background Colors */
+.bg--red 
+{
+	background-color: #EC644B;
+}
+.bg--pink
+{
+	background-color: #D2527F;
+}
+.bg--purpule
+{
+	background-color: #8E44AD;
+}
+.bg--blue 
+{
+	background-color: #4183D7;
+}
+.bg--green
+{
+	background-color: #87D37C;
+}
+.bg--yellow
+{
+	background-color: #F5D76E;
+}
+.bg--orange 
+{
+	background-color: #EB9532;
+}
+.bg--gray-light
+{
+	background-color: #DADFE1;
+}
+.bg--gray-dark
+{
+	background-color: #6C7A89;
+}
+.bg--black
+{
+	background-color: black;
+}
+/* Colors */
+.white 
+{
+	color: white;
+}
+.black 
+{
+	color: black;
+}
+
+/* Headings */
+.big 
+{
+	font-size: 500%;
+}
+h1
+{
+	font-size: 400%;
+}
+h2
+{
+	font-size: 300%;
+}
+h3
+{
+	font-size: 250%;
+}
+h4
+{
+	font-size: 200%;
+}
+p
+{
+	font-size: 150%;
+}
+
+/* Patch : */
+a
+{
+	color:#1E8BC3;
+	text-decoration:none
+}
+a:hover
+{
+	color:#3498DB;
+	text-decoration:underline
+}
+
+/* Fonts style */
+.italic
+{
+	font-style: italic;
+}
+.bold 
+{
+    font-weight: bold;
+}
+.code
+{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.cursive 
+{
+    font-family: 'Pacifico', cursive;
+}
+
+/* Text align */
+.center
+{
+	text-align: center;
+}
+.right
+{
+	text-align: right;
+}
+.left
+{
+	text-align: left;
+}
+
+/* Inputs */
+input, textarea
+{
+	font-family: 'Muli', sans-serif;
+}
+input[type="submit"]
+{
+	font-size: 120%;
+	background-color: white;
+	border: 0px black solid;
+}
+input[type="submit"]:hover
+{
+	border: 1px black solid;
+	font-size: 130%;
+}
+input[type="text"]
+{
+	border: 1px black solid;
+	font-size: 100%;
+	    border-radius: 5px;
+}
+input[type="text"]:hover 
+{
+	border: 2px black solid;
+	font-size: 110%;
+	    border-radius: 10px;
+}
+textarea
+{
+	border: 1px black solid;
+	    border-radius: 5px;
+}
+textarea:hover 
+{
+	border: 2px black solid;
+	font-size: 110%;
+	    border-radius: 10px;
+}
