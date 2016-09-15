@@ -11,3 +11,8 @@ Comming son
 ##KapCSS Website 
 * Site : [https://outout14.github.io/kapcss/](https://outout14.github.io/kapcss/)
 * Demo : [https://outout14.github.io/kapcss/demo.html](https://outout14.github.io/kapcss/demo.html)
+
+##KapCSS Liscence
+
+* Fr : [https://creativecommons.org/licenses/by/3.0/fr/](https://creativecommons.org/licenses/by/3.0/fr/)
+* En : [https://creativecommons.org/licenses/by/3.0/](https://creativecommons.org/licenses/by/3.0/)
